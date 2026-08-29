@@ -1,0 +1,15 @@
+{
+  "name": "agent-skills",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "audit": "node --test tests/public-safety.test.mjs",
+    "benchmark": "node skills/lavish-transcript/benchmarks/benchmark-render-transcript.mjs",
+    "test": "node --test tests/*.test.mjs skills/lavish-transcript/tests/*.test.mjs",
+    "validate": "node scripts/validate-skills.mjs"
+  }
+}
