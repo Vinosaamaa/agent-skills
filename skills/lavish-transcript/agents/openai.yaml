@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lavish Transcript"
+  short_description: "Page agent transcripts into a bounded Lavish reader"
+  default_prompt: "Use $lavish-transcript to render the requested local agent transcript in Lavish with bounded byte-cursor paging and collapsed tools and diffs."
