@@ -2,7 +2,11 @@
 
 A small public source of independently maintained agent skills. Each skill keeps its instructions, implementation, generated-fixture verification, and benchmarks together under `skills/`.
 
-## Available skill
+## Available skills
+
+### cover-letter
+
+Researches a posting, verifies candidate evidence, and drafts, revises, and formats concise job-application cover letters through content and document-design gates, producing recruiter-ready DOCX/PDF output.
 
 ### lavish-transcript
 

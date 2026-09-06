@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cover Letter"
+  short_description: "Research and write polished cover letters"
+  default_prompt: "Use $cover-letter to research this role and create a concise, factual cover letter that can be attached and submitted automatically after it passes the skill's quality gates."

@@ -18,6 +18,10 @@ const expectedFiles = [
   "skills/lavish-transcript/benchmarks/benchmark-render-transcript.mjs",
   "skills/lavish-transcript/scripts/render-transcript.mjs",
   "skills/lavish-transcript/tests/render-transcript.test.mjs",
+  "skills/cover-letter/SKILL.md",
+  "skills/cover-letter/agents/openai.yaml",
+  "skills/cover-letter/references/layout-spec.md",
+  "skills/cover-letter/references/writing-rubric.md",
   "tests/public-safety.test.mjs",
 ].sort();
 
